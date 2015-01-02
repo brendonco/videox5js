@@ -5,7 +5,6 @@ Videox5js is a web video player for HTML5. The theme of the video player control
 
 ##Quick start
 Simply add these includes to your document's <head>:
-
 ```
 <link rel="stylesheet" href="./css/template/default/style.css">
 ```
