@@ -1,5 +1,4 @@
 #Videox5js
-=========
 
 Videox5js is a web video player for HTML5. The theme of the video player controls can be customized.  This project was started Q4 2014.
 
