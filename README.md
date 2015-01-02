@@ -4,17 +4,16 @@ Videox5js is a web video player for HTML5. The theme of the video player control
 
 ##Quick start
 Simply add these includes to your document's <head>:
-
+```
 <link rel="stylesheet" href="./css/template/default/style.css">
+```
 
 Add videox5.js library before your document's </body>:
-
 ```
 <script src="./lib/videox5.js"></script>
 ```
 
 Then, whenever you want to use Videox5.js you can simply use the <video> element.
-
 ```
 <video id="video" name="media" poster="http://media.w3.org/2010/05/sintel/poster.png" width="640" height="365">
       <source src="trailer.mp4" type="video/mp4">
