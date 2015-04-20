@@ -23,6 +23,17 @@ Then, whenever you want to use Videox5.js you can simply use the <video> element
 </video>
 ```
 
+Video Controls - The video object provides methods, properties and events that you can use to control playback from JavaScript.
+```
+<div id="video-controls">
+      <button type="button" id="play-pause" class="play">Play</button>
+      <input type="range" id="seek-bar" value="0">
+      <button type="button" id="mute">Mute</button>
+      <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
+      <button type="button" id="full-screen">Full-Screen</button>
+</div>
+```
+
 ##Screenshot
 ![image](https://cloud.githubusercontent.com/assets/6521691/5593854/7b695b0a-9265-11e4-840c-ca3d9d46ea17.png)
 
