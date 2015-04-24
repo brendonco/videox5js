@@ -52,6 +52,9 @@ button {
 	-moz-border-radius: 3px;
 	-o-border-radius: 3px;
 	border-radius: 3px;
+
+	position:absolute;
+	margin-top: 2px;
 }
 
 button:hover {
@@ -60,8 +63,10 @@ button:hover {
 
 #seek-bar {
 	width: 360px;
+	margin-left: 7%;
 }
 
 #volume-bar {
 	width: 60px;
+	margin-left: 7%;
 }
