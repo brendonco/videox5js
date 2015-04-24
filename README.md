@@ -35,6 +35,7 @@ Video Controls - The video object provides methods, properties and events that y
 ```
 
 ##Screenshot
+![image](https://cloud.githubusercontent.com/assets/6521691/7312278/f933faf0-ea7a-11e4-8e6e-bf61a6def978.png)
 ![image](https://cloud.githubusercontent.com/assets/6521691/7312245/b82ab882-ea7a-11e4-9c95-002cc7fa9813.png)
 
 ##License
