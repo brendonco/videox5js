@@ -40,4 +40,4 @@ Video Controls - The video object provides methods, properties and events that y
 
 ##License
 Videox5js is licensed under the Apache License [View license file](http://www.gnu.org/licenses/lgpl.txt)
-Copyright 2014
+Copyright 2017
