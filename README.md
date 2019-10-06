@@ -1,6 +1,6 @@
 #Videox5js
 
-[![Join the chat at https://gitter.im/brendonco/videox5js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brendonco/videox5js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+##Drop me a line if your interested to contribute[![Join the chat at https://gitter.im/brendonco/videox5js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brendonco/videox5js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Videox5js is a web video player for HTML5. The theme of the video player controls can be customized.  This project was started Q4 2014.
 
